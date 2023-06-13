@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zelalemMK
-- 👀 I’m interested in boondocks, ethiopia.
-- 🌱 I’m currently learning a lot of things, including calc, unix philosophy, risk taking etc.
-- 💞️ I’m looking to collaborate on anything that is interesting.
+- 👀 I’m interested in football, basketball, ethiopia, music. 
+- 🌱 I’m currently learning golang.
+- 💞️ I’m looking to collaborate on getting a job.
 - 📫 How to reach me zelliott33@gmail.com
 
 <!---
