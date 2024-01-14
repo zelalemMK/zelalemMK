@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zelalemMK
-- 👀 I’m interested in football, basketball, ethiopia, music. 
+- 👀 I’m interested in https://x.com/guideforlovers/status/1736569978051027245
 - 🌱 I’m currently learning people.
 - 💞️ I’m looking to collaborate on low-level programming, math. 
 - 📫 How to reach me zelliott33@gmail.com
