@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zelalemMK
-- 👀 I’m interested in https://x.com/guideforlovers/status/1736569978051027245, and she's hot. 
-- 🌱 I’m currently learning people.
-- 💞️ I’m looking to figuring out what I want. 
+- 👀 I’m interested in https://x.com/guideforlovers/status/1736569978051027245. 
+- 🌱 I’m currently learning how to use nextjs.
+- 💞️ I’m looking for contracts. 
 - 📫 How to reach me zelliott33@gmail.com
 - https://www.canva.com/design/DAGYM4Rqk7A/SL3r5bM1GyGRVjueMu3MTg/view?utm_content=DAGYM4Rqk7A&utm_campaign=designshare&utm_medium=link&utm_source=editor
 <!---
