@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats
 
 ---
-🚀 "Life's too short for shallow learning and half-hearted commitments. Dive in, adapt, and make every challenge an opportunity!"
+
 
 - 👋 Hi, I’m @zelalemMK
 - 💞️ I’m looking for contracts. 
