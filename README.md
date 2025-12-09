@@ -1,5 +1,4 @@
 ## 📊 GitHub Stats
-![Zelalem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zelalemmk&show_icons=true&theme=radical)
 
 ---
 🚀 "Life's too short for shallow learning and half-hearted commitments. Dive in, adapt, and make every challenge an opportunity!"
